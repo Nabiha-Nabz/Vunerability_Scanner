@@ -32,9 +32,9 @@ pip installed
 Steps:
 
 1. Clone the repository: git clone https://github.com/yourusername/VulnerabilityScanner.git
-cd VulnerabilityScanner
-2. Install dependencies: pip install -r requirements.txt
-3. Run the main.py file
+2. cd VulnerabilityScanner
+3. Install dependencies: pip install -r requirements.txt
+4. Run the main.py file
 
 🚀 Usage
 
