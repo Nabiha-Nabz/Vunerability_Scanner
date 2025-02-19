@@ -1,0 +1,13 @@
+beautifulsoup4
+bs4
+colorama
+cryptography
+nmap
+requests
+scanners
+scapy
+selenium
+shodan
+tqdm
+urllib
+utils
