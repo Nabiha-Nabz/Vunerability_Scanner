@@ -39,6 +39,7 @@ Steps:
 🚀 Usage
 
 Run the scanner with: python main.py --url <target_url>
+<br>
 Example: python main.py --url https://example.com
 
 📝 Features
